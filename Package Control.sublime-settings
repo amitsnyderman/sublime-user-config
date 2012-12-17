@@ -1,0 +1,18 @@
+{
+	"auto_upgrade_last_run": 1351868998,
+	"installed_packages":
+	[
+		"Case Conversion",
+		"CoffeeScript",
+		"Git",
+		"Goto Documentation",
+		"LESS",
+		"LiveReload",
+		"Package Control",
+		"SFTP",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Theme - Soda"
+	]
+}
