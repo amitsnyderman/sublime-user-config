@@ -1,15 +1,18 @@
 {
-	"auto_upgrade_last_run": 1351868998,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Case Conversion",
 		"CoffeeScript",
+		"DocBlockr",
+		"FileDiffs",
 		"Git",
 		"Goto Documentation",
 		"LESS",
 		"LiveReload",
 		"Package Control",
 		"SFTP",
+		"sublime-github",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeREPL",
