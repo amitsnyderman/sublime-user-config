@@ -1,25 +1,12 @@
 {
-	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"Case Conversion",
-		"CoffeeScript",
-		"CTags",
 		"DocBlockr",
-		"Emmet",
-		"FileDiffs",
 		"Git",
-		"Goto Documentation",
-		"LESS",
-		"LiveReload",
-		"Markdown Preview",
-		"Package Control",
-		"Sass",
 		"SFTP",
 		"Smarty",
 		"sublime-github",
-		"SublimeLinter",
-		"SublimeREPL",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Xdebug Client"
 	]
 }

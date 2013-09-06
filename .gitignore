@@ -1,2 +1,9 @@
+.DS_Store
+
 GitHub.sublime-settings
 sftp_servers
+Xdebug.breakpoints
+
+Package Control.cache
+Package Control.last-run
+Package Control.system*
