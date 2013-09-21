@@ -3,9 +3,11 @@
 	[
 		"DocBlockr",
 		"Git",
+		"Markdown Preview",
 		"SFTP",
 		"Smarty",
 		"sublime-github",
+		"SublimeSBT",
 		"Theme - Soda",
 		"Xdebug Client"
 	]
