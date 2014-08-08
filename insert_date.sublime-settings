@@ -1,0 +1,8 @@
+{
+	"user_prompt_config": [
+		{
+			"name": "Filestamp",
+			"format": "%Y%m%d%H%M"
+		}
+	]
+}
