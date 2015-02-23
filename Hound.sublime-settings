@@ -1,0 +1,8 @@
+{
+    "hound_url": "http://hound.etsycorp.com:6080",
+    "github_base_url": "https://github.etsycorp.com",
+    "local_root_dir": "/Users/asnyderman/Documents/etsy/src",
+    "exclude_repos": [],
+    "default_open_in_browser": false,
+    "debug": false
+}

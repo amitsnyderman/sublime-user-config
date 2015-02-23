@@ -1,14 +1,24 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"Colorsublime",
 		"DashDoc",
 		"DocBlockr",
 		"Git",
+		"Hound Search",
 		"HTML Mustache",
 		"InsertDate",
 		"Markdown Extended",
 		"Markdown Preview",
+		"Package Control",
 		"Path Tools",
 		"SCSS",
 		"SFTP",
