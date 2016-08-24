@@ -1,8 +1,10 @@
 {
-	"user_prompt_config": [
+	"tz_in": "US/Pacific",
+	"user_prompt_config":
+	[
 		{
-			"name": "Filestamp",
-			"format": "%Y%m%d%H%M"
+			"format": "%Y%m%d%H%M",
+			"name": "Filestamp"
 		}
 	]
 }
