@@ -5,18 +5,32 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"Babel",
+		"Boxy Theme",
 		"Colorsublime",
 		"DashDoc",
 		"DocBlockr",
 		"Git",
 		"Hound Search",
 		"HTML Mustache",
+		"JsPrettier",
+		"JSX",
+		"Markdown Extended",
+		"Nodejs",
+		"Oceanic Next Color Scheme",
 		"Package Control",
 		"Path Tools",
 		"SCSS",
 		"SFTP",
 		"Smarty",
 		"sublime-github",
-		"Theme - Soda"
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint_d",
+		"SublimeLinter-eslint",
+		"SublimeLinter-php",
+		"Terraform",
+		"Theme - Sienna",
+		"Theme - Spacegray"
 	]
 }
