@@ -1,17 +1,37 @@
 {
 	"bold_folder_labels": false,
-	"color_scheme": "Packages/User/Colorsublime/themes/Juicy.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Juicy (SL).tmTheme",
 	"create_window_at_startup": false,
 	"draw_white_space": "all",
-	"font_face": "Hack",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "FiraCode-Regular",
 	"font_size": 11.0,
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"indent_guide_options": ["draw_active"],
 	"line_numbers": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers": [80, 120],
 	"scroll_past_end": true,
-	"theme": "Soda Light 3.sublime-theme"
+	"show_definitions": false,
+	"theme": "Boxy Yesterday.sublime-theme",
+	"theme_accent_cyan": true,
+	"theme_dropdown_materialized": true,
+	"theme_icons_materialized": true,
+	"theme_quick_panel_size_xs": true,
+	"theme_sidebar_border": true,
+	"theme_tab_selected_filled": true,
+	"theme_tab_size_xs": true,
+	"theme_unified": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space": true
 }
